@@ -26,8 +26,8 @@ Beyond the classroom, I'm open to meaningful collaborations — whether it's a r
 
 | Degree | Field | Institution |
 |--------|-------|-------------|
-| S2 (Master's) | Magister Informatika | Universitas Surabaya (UBAYA) |
-| S1 (Bachelor's) | Teknik Informatika | Universitas Surabaya (UBAYA) |
+| S2 (Master's) | Master of Informatics | Universitas Surabaya (UBAYA) |
+| S1 (Bachelor's) | Informatics Engineering | Universitas Surabaya (UBAYA) |
 
 ---
 
